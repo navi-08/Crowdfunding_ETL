@@ -17,8 +17,6 @@ The final production environment will utilize a Relational (SQL) database for ef
 
 An Entity Relationship Diagram (ERD) will be generated using a tool like [Quick Database Diagrams](https://www.quickdatabasediagrams.com/) to provide a visual representation of the database structure.
 
-## ERD
-![ERD](link-to-erd-image)
 
 ## Findings
 1. The "theater" category has the highest success rate, while "Journalism" and "Games" have relatively low success rates.
